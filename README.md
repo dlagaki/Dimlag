@@ -1,1 +1,1 @@
-# Dimlag
+# Example of README.md
