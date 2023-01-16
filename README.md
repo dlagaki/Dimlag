@@ -7,4 +7,5 @@
 
 Το Github θα έχει δημιουργήσει ένα αποθετήριο με ένα αρχείο README.md Τα αρχεία αυτά έχουν πληροφορίες σχετικά με το κάθε αποθετήριο και εμφανίζονται αυτόματα στην κεντρική σελίδα του αποθετηρίου. Είναι γραμμένα με ειδική σύνταξη που ονομάζεται Markdown. Ένα αποθετήριο μπορεί να περιέχει και άλλα αρχεία γραμμένα με Markdown. Συνήθως αυτά έχουν την κατάληξη “.md”. Άσχετα με το πλήθος τους, το αρχείο REAME.md είναι αυτό που εμφανίζεται αυτόματα στην κεντρική σελίδα του αποθετηρίου.
 Στον παρακάτω σύνδεσμο μπορείτε να διαβάσετε περισσότερες λεπτομέρειες σχετικά με τη σύνταξη Markdown κειμένου
-(οδηγίες)[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax**]
+
+Πατήστε εδώ για τη [σύνταξη Markdow](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax**)
